@@ -1,0 +1,10 @@
+.icon {
+    color: rgba(255, 247, 0, 0.64);
+    font-size: 25px;
+}
+
+h3 {
+    display: inline-block;
+    margin: 10px;
+    color: red;
+}

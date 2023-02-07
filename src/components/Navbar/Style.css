@@ -1,0 +1,24 @@
+@font-face {
+    font-family: harry;
+    src: url("../Assets/typography/HARRYP__.TTF");
+}
+
+.Logo {
+    color: rgb(255, 234, 0);
+    font-family: harry;
+    font-size: 4rem;
+}
+
+.nav-link{
+    font-size: 20px;
+    color: rgb(255, 255, 255)!important;
+}
+
+.nav-link:hover{
+    color: rgb(255, 42, 0)!important;
+}
+
+.navbar-nav{
+    display: flex;
+    align-self: flex-end;
+}
